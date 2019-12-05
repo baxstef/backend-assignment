@@ -26,6 +26,7 @@ Fields supplied are:
   * At least two of the following: application/json, application/vnd.api+json, application/ld+json, application/hal+json
   * application/xml
   * text/csv
+* Don't forget to include your tests
 
 **Share your work:**
 * Stage your solution on a demo page or
